@@ -14,7 +14,7 @@ To say or stop saying just click on Mic button:
 Demo scene included.
 
 ## Dependencies
-- [PUN 2](https://www.photonengine.com/sdks#fusion-unity-csharp)
+- [Photon Fusion](https://www.photonengine.com/sdks#fusion-unity-csharp)
 - [Microphone WebGL Library](https://assetstore.unity.com/packages/tools/input-management/microphone-pro-webgl-mobiles-desktop-79989?aid=1101lGsS)
 
 ## Troubleshooting
